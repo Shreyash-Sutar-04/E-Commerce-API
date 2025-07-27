@@ -1,2 +1,5 @@
-# E-Commerce-API
-E-commerce app in Python: Console, Tkinter GUI, and FastAPI API with auth, CRUD, cart, and order management.
+𝘌-𝘊𝘰𝘮𝘮𝘦𝘳𝘤𝘦 𝘗𝘺𝘵𝘩𝘰𝘯 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘪𝘯 3 𝘱𝘩𝘢𝘴𝘦𝘴:
+1️⃣ 𝘊𝘰𝘯𝘴𝘰𝘭𝘦-𝘣𝘢𝘴𝘦𝘥 𝘋𝘉 𝘢𝘱𝘱 𝘶𝘴𝘪𝘯𝘨 𝘴𝘲𝘭𝘪𝘵𝘦3
+2️⃣ 𝘛𝘬𝘪𝘯𝘵𝘦𝘳 𝘎𝘜𝘐 𝘢𝘱𝘱 𝘸𝘪𝘵𝘩 𝘋𝘉 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘪𝘰𝘯
+3️⃣ 𝘍𝘢𝘴𝘵𝘈𝘗𝘐 𝘙𝘌𝘚𝘛 𝘈𝘗𝘐 + 𝘛𝘬𝘪𝘯𝘵𝘦𝘳 𝘤𝘭𝘪𝘦𝘯𝘵
+𝘐𝘯𝘤𝘭𝘶𝘥𝘦𝘴 𝘧𝘶𝘭𝘭 𝘊𝘙𝘜𝘋, 𝘶𝘴𝘦𝘳 𝘢𝘶𝘵𝘩, 𝘴𝘩𝘰𝘱𝘱𝘪𝘯𝘨 𝘤𝘢𝘳𝘵, 𝘢𝘯𝘥 𝘰𝘳𝘥𝘦𝘳 𝘧𝘭𝘰𝘸.
